@@ -31,7 +31,9 @@ We are using Github labels to categorize issues and pull requests.
 | [Urgent](https://github.com/UdacityMobileWebScholarship/showcase-app/labels/Urgent) | This is urgent to address |
 | [Critical](https://github.com/UdacityMobileWebScholarship/showcase-app/labels/Critical) | This is critical to address |
 
-### Project Set Up 
+### Project Set Up
+>Note: This project requires yarn as a package manager. To download yarn follow this [link](https://yarnpkg.com/).
+
 Open folder you want to clone this repo into, then-
 * Frontend
     * `git clone https://github.com/UdacityMobileWebScholarship/showcase-app.git`
